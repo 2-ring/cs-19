@@ -1,1 +1,1 @@
-
+The course is titled "Accelerated Introduction to Computer Science", it covers a plethora of concepts from functional programming to graphs to time complexity. My code improved as the course progressed, so some assignments--say the final one--will be much higher quality than the first.
